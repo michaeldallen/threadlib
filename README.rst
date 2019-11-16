@@ -123,6 +123,8 @@ List of supported threads
 Currently, threadlib knows these threads:
 
 - `Metric threads <http://mdmetric.com/tech/M-thead%20600.htm>`__ (coarse, fine, and super-fine pitches) M0.25 to M600
+- Unified Inch Screw Threads (UNC, UNF, UNEF, 4-UN, 6-UN, 8-UN, 12-UN,
+  16-UN, 20-UN, 28-UN, and 32-UN)
 - `BSP parallel thread <https://www.amesweb.info/Screws/British-Standard-Pipe-Parallel-Thread-BSPP.aspx>`__ G1/16 to G6
 - `PCO-1881 <https://www.bevtech.org/assets/Committees/Packaging-Technology/20/3784253-20.pdf>`__ (PET-bottle thread)
 
