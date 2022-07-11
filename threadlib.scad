@@ -11,7 +11,7 @@ Create threads easily.
 
 function __THREADLIB_VERSION() = 0.3;
 
-use <thread_profile.scad>
+use <../IoP-satellite/OpenSCAD bottle threads/thread_profile.scad>
 include <THREAD_TABLE.scad>
 
 function thread_specs(designator, table=THREAD_TABLE) =
